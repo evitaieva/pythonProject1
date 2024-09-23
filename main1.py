@@ -305,3 +305,4 @@ print('multiplication2:', b * 2)
     # else:
     #     print('jusu amzius tinkamas')
 
+print("hi")
